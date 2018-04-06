@@ -16,6 +16,6 @@ PFEM-Package is a simple educational Polygonal Finite Element Method (PFEM) pack
  [2]  Son Nguyen-Hoang, H. Nguyen-Xuan
       A polytree-base adaptive polygonal finite element method for topology optimization, Int. J. Numer. Methods Engrg. 110 (10) (2017) 972–1000.
       
- [3] Khai N. Chau, Khanh N. Chau, TuanNgo, KlausHackl, H.Nguyen-Xuan
+ [3] Khai N. Chau, Khanh N. Chau, Tuan Ngo, Klaus Hackl, H. Nguyen-Xuan
      A polytree-based adaptive polygonal finite element method for multi-material topology optimization, Comput. Methods Appl. Mech. Engrg. 332 (30) (2018) 712-739.
 
